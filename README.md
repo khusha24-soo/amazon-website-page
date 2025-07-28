@@ -1,8 +1,7 @@
-# amazon-website-page : Here’s a GitHub project description you could use to showcase your work with clarity and style:
 
 ---
 
-### 🛒 Amazon Clone – Frontend Web Project
+Amazon Clone – Frontend Web Project
 
 This project is a responsive frontend recreation of the Amazon homepage, built using HTML and CSS. It mimics core UI elements like navigation menus, search functionality, product categories, and promotional panels. It’s designed to sharpen layout skills and introduce dynamic design elements inspired by real-world e-commerce platforms.
 
